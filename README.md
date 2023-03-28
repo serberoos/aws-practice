@@ -1,2 +1,3 @@
-# aws-workshop-managing-cloud-resources-with-terraform
-aws-workshop-managing-cloud-resources-with-terraform
+aws workshop studio : managing-cloud-resources-with-terraform
+
+region : ca-central-1
